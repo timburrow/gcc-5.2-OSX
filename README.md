@@ -24,6 +24,10 @@ Thread model: posix
 gcc version 5.2.0 (GCC) 
 ```
 
+## License ##
+ 
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This README is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
 ## Testing ##
 
 Use the repository scons-test https://github.com/timburrow/scons-test to test that C and FORTRAN will compile and link. 
