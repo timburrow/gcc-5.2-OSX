@@ -1,6 +1,6 @@
 # GCC 5.2 for OS X #
 
-This is a tar file of gcc-5.2 (gnu compiler collection) with C, C++ and gfortran compiled for OS X and which can be extracted into /usr/local/. 
+This is a tar file of gcc-5.2 (gnu compiler collection) with C, C++ and gfortran compiled for OS X and which can be extracted into /usr/local/. The latest tarball can be found on the [Releases Page](https://github.com/timburrow/gcc-5.2-OSX/releases).
 
 Tested on OS X 10.11 "El Capitan", OS X 10.10 "Yosemite", and OS X 10.9 "Mavericks".
 
